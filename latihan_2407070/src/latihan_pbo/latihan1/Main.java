@@ -16,7 +16,7 @@ class Cafe{
     // method
     void buka(){
         System.out.println("===================");
-        System.out.println("Cafe Sudah Buka");
+        System.out.println("Cafe" + nama + "Sudah Buka");
     }
 
 
@@ -67,9 +67,9 @@ public class Main {
         // System.out.println("Nama Cafe :" + cafe3.nama);
         // System.out.println("Nama Cafe :" + cafe3.alamat);
 
+        Cafe cafe1Cafe= new Cafe("Tomoro", "Indramayu");
+        cafe3.setNama("Janji Jiwa");
+        cafe2.buka();
         
-
-        
-
     }
 }
