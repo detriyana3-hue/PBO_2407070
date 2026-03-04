@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "tugas1_2407070",
+            "request": "launch",
+            "mainClass": "tugas_pbo.tugas1_2407070",
+            "projectName": "PBO_2407070_9b798dc7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "latihan_pbo.latihan3.Main",
+            "projectName": "PBO_2407070_9b798dc7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "tugas_2407070.tugas2.Main",
+            "projectName": "PBO_2407070_9b798dc7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "latihan_pbo.tugas1.Main",
+            "projectName": "PBO_2407070_9b798dc7"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "latihan_pbo.latihan2.Main",
