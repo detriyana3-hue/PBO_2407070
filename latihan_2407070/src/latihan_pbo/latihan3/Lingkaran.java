@@ -1,9 +1,13 @@
 package latihan_pbo.latihan3;
 
-public class Lingkaran extends BangunDatar {
+public class Lingkaran extends BangunDatar{
 
     public double LuasLingkaran(){
-        return 3.14 * getJari() * getJari();
+        return Math.PI * getJari() * getJari();
     }
-    
+
+    public double KelilingLingkaran(){
+        return 2 * Math.PI * getJari();
+    }
+
 }
