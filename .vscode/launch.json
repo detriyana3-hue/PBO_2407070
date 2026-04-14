@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "latihan_pbo.latihan_13april.Main",
+            "projectName": "PBO_2407070_9b798dc7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "tugas_pbo.tugas3_2407070.Main",
             "projectName": "PBO_2407070_9b798dc7"
         },
